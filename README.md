@@ -40,3 +40,7 @@
     txt = 'Hello, nama saya john, dan umur saya adalah {} tahun' 
     hasil = txt.format(umur) 
     print(hasil)
+
+## hasil output latihan 2
+
+Screenshot_20230118_193635.jpg
