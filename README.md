@@ -32,3 +32,12 @@
     #Ganti karakter H dengan karakter J
     txt_ganti_karakter = txt.replace('H', 'J')
     print(txt_ganti_karakter)
+
+## latihan 2
+- source code :
+
+
+    umur = 24
+    txt = 'Hello, nama saya john, dan umur saya adalah {} tahun'
+    hasil = txt.format(umur)
+    print(hasil)
