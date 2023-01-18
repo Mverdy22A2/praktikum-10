@@ -43,4 +43,4 @@
 
 ## hasil output latihan 2
 
-Screenshot_20230118_193635.jpg
+https://drive.google.com/file/d/1E-MQqA-TGrqQZyxZG2qhAM6Z8RdtsNUx/view?usp=drivesdk
