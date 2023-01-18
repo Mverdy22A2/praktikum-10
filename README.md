@@ -2,7 +2,8 @@
 ## latihan 1 
 - sourcecodein:
 
-    txt = 'Hello World'
+
+ txt = 'Hello World'
 
     #Hitung jumlah karakternya
     jumlah_karakter = len(txt)
@@ -10,7 +11,7 @@
 
     #Ambil karakter terakhir
     karakter_terakhir = txt[-1]
-    print(karakter_terakhir)
+    Print(karakter_terakhir)
 
     #Ambil karakter index ke-2 sampai index ke-4 (llo)
     karakter_2_4 = txt[2:5]
