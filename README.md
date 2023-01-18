@@ -33,7 +33,7 @@
     txt_ganti_karakter = txt.replace('H', 'J')
     print(txt_ganti_karakter)
 
-## hasil output hasil latihan 1
+## hasil output latihan 1
 
 https://drive.google.com/file/d/1EJJ3OZFrvzFHKMs8NYnCm-t-JkX8T7RC/view?usp=drivesdk
 
